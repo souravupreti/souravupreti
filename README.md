@@ -1,7 +1,6 @@
 
 # 💫 Hi 👋, I'm Sourav Upreti
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
-<img align="right" alt="Coding" width="300" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 A passionate Web Developer | AI Enthusiast | Blockchain Learner
 
 
