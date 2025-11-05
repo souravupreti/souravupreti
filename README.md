@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+
 # 💫 Hi 👋, I'm Sourav Upreti
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 <img align="right" alt="Coding" width="300" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
