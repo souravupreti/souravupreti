@@ -1,77 +1,53 @@
-# 👋 Hi, I'm Sourav Upreti
 
-### 🚀 Aspiring Software Engineer | MERN Developer | DSA Enthusiast
 
-I’m a passionate developer who loves building real-world applications and solving problems using Data Structures & Algorithms.
+<p align="center"><i>"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson</i></p>
 
-- 💻 Focused on **MERN Stack Development**
-- 🧠 Practicing **DSA for interviews**
-- 🤖 Exploring **AI & LLM-based applications**
+<h1 align="center">Hi, I'm Sourav Upreti</h1>
 
----
-
-## 📫 Connect With Me
-
-- 📧 Email: souravupreti1@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/sourav-upreti-22b8b6283  
-- 📸 Instagram: https://instagram.com/sourav_upreti005  
+<p align="center">
+I design and develop full-stack applications with a strong focus on performance, scalability, and clean architecture.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### About Me
 
-### 👨‍💻 Programming & Core
-- JavaScript (ES6+)
-- C++
-- Data Structures & Algorithms
-
-### 🌐 Web Development (MERN)
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-### ⚙️ Tools & Concepts
-- Git & GitHub
-- REST APIs
-- JWT Authentication
-- Context API
+- MERN Stack Developer with strong fundamentals in DSA, OOP, and Low-Level Design  
+- Experience building scalable applications and REST APIs  
+- Focused on backend optimization, security, and database performance  
+- Exploring AI integration using Gemini API  
 
 ---
 
-## 🚀 Featured Project
+### Tech Stack
 
-### 💻 CodeArea – Online Coding Platform
+**Languages:** JavaScript, C++  
 
-A full-stack MERN application designed to practice coding, improve problem-solving skills, and simulate real interview environments.
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
 
-#### 🔹 Features:
-- 🧠 DSA problem practice system
-- ⚡ Real-time code execution (planned / integrated)
-- 👨‍💻 Clean and responsive UI
-- 🔐 Authentication using JWT
-- 📊 Performance tracking (future scope)
+**Backend:** Node.js, Express.js  
 
-#### 🛠️ Tech Used:
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+**Database:** MongoDB
 
-👉 *(Add your GitHub repo link here)*
+**Tools & Technologies:**  
+Git, GitHub, Postman, REST APIs, JWT Authentication, WebSocket, Cloudinary  
 
----
+**AI Integration:** Gemini API  
 
-## 📊 GitHub Stats
 
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravupreti&show_icons=true)
+### Connect
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravupreti&layout=compact)
+<p>
+<a href="mailto:souravupreti1@gmail.com">Email</a> |
+<a href="https://www.linkedin.com/in/souravupreti">LinkedIn</a> |
+<a href="https://github.com/souravupreti">GitHub</a>
+</p>
 
 ---
 
-## ✨ Goal
+### GitHub Stats
 
-To become a strong Software Engineer with expertise in problem solving and scalable web applications.
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souravupreti&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravupreti&layout=compact" />
+</p>
